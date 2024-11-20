@@ -11,7 +11,7 @@ bot.command('start', (ctx) => {
                 [
                     {
                         text: 'Запустить Web App',
-                        web_app: { url: 'https://d65f-5-76-185-186.ngrok-free.app' }, // Убедитесь, что этот URL доступен
+                        web_app: { url: 'https://telegram-mini-app-nlzy.vercel.app/' }, 
                     },
                 ],
             ],
